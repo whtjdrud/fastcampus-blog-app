@@ -1,4 +1,4 @@
-export default function PostEdit() {
+export default function PostForm() {
   return (
     <form action='/post' method='POST' className='form'>
       <div className='form__block'>
